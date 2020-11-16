@@ -9,3 +9,5 @@ The jupyter notebook called LIDAR-FWF processing Cookbook contains functions for
 This notebook compares Gaussian fit to Exponential Gaussian fit
 ##### 4) HDF(NEON) Comparison
 This notebook compares Binary reader to ASCII reader
+##### 5) Sythetic_FWF
+This notebook creates sythetic LIDAR FWF dataset
