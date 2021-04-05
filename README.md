@@ -7,5 +7,5 @@ The jupyter notebook called LIDAR-FWF processing Cookbook contains functions for
 'neon_fwf.py' is a little python module for creating HDF files from pulsewave files.
 ##### 3) LIDAR FWF finding the best Fit.ipynb
 This notebook is a comparison of Gaussian fit and Exp. Gaussian fit bay some statistical analysis.
-##### 5) Sythetic_FWF
-This notebook creates sythetic LIDAR FWF dataset
+##### 5) Synthetic_FWF
+This notebook creates sythetic LIDAR FWF dataset with different noises
